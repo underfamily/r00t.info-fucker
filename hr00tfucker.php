@@ -2,7 +2,7 @@
 <form action="" method="REQUEST">
 <input type="text" name="site">(ex:http://site.com/shell.php)
 <br>
-<input type="text" name="acik" value="lisances">(ex:bs - 404)
+<input type="text" name="acik" value="lisances">(ex:bs - bawah)
 <br>
 <input type="text" name="shellurl">(ex:http://site.com/youshell.txt)
 <br>
